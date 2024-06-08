@@ -16,6 +16,11 @@ java {
 	sourceCompatibility = JavaVersion.VERSION_17
 }
 
+application {
+	applicationName = "com.donotfinishlast.webgame.WebgameApplicationKt" // Note: Replace with your actual package and class name
+}
+
+
 repositories {
 	mavenCentral()
 }
